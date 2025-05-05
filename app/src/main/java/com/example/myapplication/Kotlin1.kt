@@ -133,12 +133,12 @@ class Kotlin1 {
 // Puedes comentar con doble barra (//) las funciones que no quieras ejecutar para probar una a una
 fun main() {
     val ejercicios = Kotlin1()
-//    ejercicios.ejercicio1()
-//    ejercicios.ejercicio2()
-//    ejercicios.ejercicio3()
-//    ejercicios.ejercicio4(25)
-//    ejercicios.ejercicio5(8)
-//    ejercicios.ejercicio6()
-//    ejercicios.ejercicio7(null)
+    ejercicios.ejercicio1()
+    ejercicios.ejercicio2()
+    ejercicios.ejercicio3()
+    ejercicios.ejercicio4(25)
+    ejercicios.ejercicio5(8)
+    ejercicios.ejercicio6()
+    ejercicios.ejercicio7(null)
     ejercicios.ejercicio8()
 }
